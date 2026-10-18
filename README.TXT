@@ -22,3 +22,4 @@ hover over "More Run/Debug", and select "Run 'All Tests' with Coverage"
 
 Note: The PropertyAssessments class will have a single not covered line in testing,
   this is due to code taken from lab1, that is used to read the filename
+Additionally, CsvParser does not have test code, because that file was pulled from lab1
