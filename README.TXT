@@ -8,6 +8,10 @@ Method One:
   Right clicking the given file, (Lab2Main-lab4Main) and selecting the run option given
 
 Method Two:
+  Selecting a designated file to run in the top (If availible) , 
+and running it by pushing the green outlined play button (Lab#Main, cmpt305<> is testing)
+
+Method Three:
   Making sure the filepath at the top of the page is selected to be on "Current File",
   when accessing the file in the view window, and selecting the green outlined play button
 
